@@ -1,4 +1,4 @@
-# SaveMyDates
+# TextFi
 <img src="./docs/banner.png" alt="android-club-vit" width="100%" />
 <div align="center">
   <br/>
